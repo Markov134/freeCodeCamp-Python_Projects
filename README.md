@@ -1,1 +1,3 @@
-If you are currently taking the python course on freecodecamp I highly recommend trying to code the solution to the problem by yourself first then seek help online.
+Disclaimer: If you're currently taking the Python course on freeCodeCamp, I encourage you to attempt the problem yourself before looking for solutions or asking for help online.
+
+This repository contains all the work completed for the Python course on freeCodeCamp.
